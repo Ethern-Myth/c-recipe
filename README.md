@@ -1,3 +1,5 @@
 # c-recipe
 
-Uploading Soon...
+Dev Link : https://c-recipe.pages.dev/
+
+Under development, full documentation coming soon...
