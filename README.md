@@ -1,6 +1,6 @@
 # c-recipe
 
-Dev Link : https://c-recipe.pages.dev/
+Link coming soon...
 
 
 Quick info:
