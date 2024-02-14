@@ -1,11 +1,18 @@
 # c-recipe
 
-Link coming soon...
+### Information 
+App link
 
+```
+https://c-recipe.pages.dev
+```
+
+You can search google for:
+```
+C. Recipe Ethern Myth
+```
 
 Quick info:
-Sign in & Sign up portal are available. Dashboard still in progress. Once completed, authentication will be unlocked.
+Sign in & Sign up portal are available. Dashboard is complete. Authentication to sign in and sign up is available.
 
-Only mock data is provided as of now, by next enrollment of changes, real time data will be available.
-
-Under development, full documentation coming soon...
+Now in production, full documentation coming soon...
