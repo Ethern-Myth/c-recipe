@@ -5,7 +5,7 @@
 App link
 
 ```
-https://c-recipe.pages.dev
+The link is moved to https://c-recipe.vercel.app/ from https://c-recipe.pages.dev
 ```
 
 You can search google for:
