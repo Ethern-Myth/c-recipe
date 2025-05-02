@@ -20,7 +20,7 @@ Sign in & Sign up portal are available. Dashboard is complete. Authentication to
 Now in production, full documentation coming soon...
 
 ### Screenshots
-![Home](./screenshots/c_recipe.png)
+![Home](./screenshots/c_recipe.jpg)
 ![Dashboard](./screenshots/Dashboard.png)
 ![Dashboard2](./screenshots/Dashboard2.png)
 ![Recipes](./screenshots/Recipes.png)
