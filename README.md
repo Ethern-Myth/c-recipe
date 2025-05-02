@@ -5,7 +5,7 @@
 App link
 
 ```
-The link is moved to https://c-recipe.vercel.app/ from https://c-recipe.pages.dev
+The project available at https://c-recipe.pages.dev or https://c-recipe.vercel.app/
 ```
 
 You can search google for:
@@ -20,7 +20,7 @@ Sign in & Sign up portal are available. Dashboard is complete. Authentication to
 Now in production, full documentation coming soon...
 
 ### Screenshots
-
+![Home](./screenshots/c_recipe.png)
 ![Dashboard](./screenshots/Dashboard.png)
 ![Dashboard2](./screenshots/Dashboard2.png)
 ![Recipes](./screenshots/Recipes.png)
